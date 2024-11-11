@@ -1,0 +1,20 @@
+{
+  "name": "abbleton-mockup-site",
+  "version": "1.0.0",
+  "description": "about page for abbleton with dropdown menu, embeded video optemized for desktop and mobile screens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Dylan Giddens",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.80.4",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0"
+  }
+}
